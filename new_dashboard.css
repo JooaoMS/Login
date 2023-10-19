@@ -1,0 +1,21 @@
+body{
+    background: rgb(96, 22, 192);
+    background: radial-gradient(circle, rgb(178, 180, 255) 0%, rgb(107, 46, 206) 100%);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: white;
+}
+
+label{
+    padding: 25px;
+}
